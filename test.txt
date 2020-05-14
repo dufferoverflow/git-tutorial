@@ -5,3 +5,5 @@ Making a change
 Making another change
 
 Testing SSH Key
+
+Testing the git amend command
