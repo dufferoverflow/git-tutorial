@@ -1,0 +1,3 @@
+This is the first thing I wrote
+
+Then I staged the file and after staging wrote this line
