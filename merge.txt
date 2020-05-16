@@ -1,0 +1,1 @@
+Made this dummy file to test 3-Way merge. Created a branch called 'second' and made some changes in test.txt and then merged it into master. Switched over to this branch and created this file to avoid merge conflicts and cleanly demonstrate a 3-Way merge.
