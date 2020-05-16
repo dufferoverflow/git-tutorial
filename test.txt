@@ -9,3 +9,5 @@ Testing SSH Key
 Testing the git amend command
 
 First thing I wrote in 'first' branch
+
+Second thing I wrote in branch
